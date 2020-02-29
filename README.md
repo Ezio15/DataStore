@@ -15,8 +15,9 @@ Installation:
     - jackson-annotations-2.5.0.jar, jackson-annotations-2.5.0-sources.jar.
     - jackson-core-2.5.0.jar, jackson-core-2.5.0-sources.jar.
     - jackson-databind-2.5.0.jar, jackson-databind-2.5.0-sources.jar.
-    - junit4-4.8.2.jar, hamcrest-core-1.3.jar.
- Usage:
+    - junit4-4.8.2.jar, hamcrest-core-1.3.jar.\
+    
+Usage:
 - To Create DataStore follow the below steps:
       - To create datastore, Initialize the MainStore Object and call createData function with arguments.   
       for eg:
